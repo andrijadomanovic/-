@@ -1,0 +1,21 @@
+.season-card {
+    background-color: #f0f0f0;
+    border: 1px solid black;
+    border-radius: 20px;
+    max-width: 500px;
+    margin-top: 20px;
+    width: 300px;
+}
+.image{
+    width: 200px;
+    height: auto;
+    
+
+}
+.seasonSeries {
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+}

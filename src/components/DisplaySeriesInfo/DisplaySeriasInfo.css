@@ -1,0 +1,17 @@
+
+.series-Item {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.hover {
+    display: flex;
+}
+
+.chart  {
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
