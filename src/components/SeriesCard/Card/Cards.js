@@ -6,6 +6,7 @@ import CardItem from './CardItem';
 
 const Cards = (props) => {
 
+  console.log('pisica props',props)
     
   return (
     <div className='cards'>
