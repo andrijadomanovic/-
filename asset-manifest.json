@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.8487b7cc.css",
-    "main.js": "/static/js/main.17746956.js",
-    "static/media/header-bg-1280w.jpg": "/static/media/header-bg-1280w.1676f3cc51627730c2f4.jpg",
-    "static/media/telenor.jpg": "/static/media/telenor.7e9d5cb577e758a5d939.jpg",
-    "index.html": "/index.html",
-    "main.8487b7cc.css.map": "/static/css/main.8487b7cc.css.map",
-    "main.17746956.js.map": "/static/js/main.17746956.js.map"
+    "main.css": "/series/static/css/main.d9c171fa.css",
+    "main.js": "/series/static/js/main.2d2f523f.js",
+    "static/media/header-bg-1280w.jpg": "/series/static/media/header-bg-1280w.1676f3cc51627730c2f4.jpg",
+    "static/media/telenor.jpg": "/series/static/media/telenor.7e9d5cb577e758a5d939.jpg",
+    "index.html": "/series/index.html",
+    "main.d9c171fa.css.map": "/series/static/css/main.d9c171fa.css.map",
+    "main.2d2f523f.js.map": "/series/static/js/main.2d2f523f.js.map"
   },
   "entrypoints": [
-    "static/css/main.8487b7cc.css",
-    "static/js/main.17746956.js"
+    "static/css/main.d9c171fa.css",
+    "static/js/main.2d2f523f.js"
   ]
 }
